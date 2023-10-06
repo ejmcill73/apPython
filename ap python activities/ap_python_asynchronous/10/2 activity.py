@@ -39,3 +39,7 @@ for num in number_list:
 # HINT - for this function you will need to use the append() function. 
 
 shopping_cart = ['notebook', 'pens','tape','mousepad']
+
+
+
+if 

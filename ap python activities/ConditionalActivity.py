@@ -43,3 +43,6 @@ def check_cereal_invetory(quanity):
   else print("We need to order more cereal")
 check_cereal_invetory (15)
 check_cereal_invetory(5)
+data_type = 5
+if data_type = integer 
+print(i)
