@@ -16,6 +16,7 @@
 # a syntax is a set of rules that will dertimine how a program will be written  its important to write a proper syntax because you want your program to run correctly
 
 # 4. What is a function, and why do we wrap our code inside of functions?
+
 # a function is a block of code which will run when it is called, we wrap our code in functions to modify the behavior of the code
 
 # 5. Name and describe the three (3) naming conventions for variables in python? Then provide three (3) name rules for Python
