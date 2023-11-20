@@ -9,4 +9,4 @@ Comcast, Roku, Apple Tv
 
 4. What is your project MVP (minimum viable product)? What is the most basic peices of code
 you need to write to get your projected started and working?
-#i would need to use conditional statements and use intergers for the channel numbers 
+#it would need to be able to change the channel and show the input that you request
