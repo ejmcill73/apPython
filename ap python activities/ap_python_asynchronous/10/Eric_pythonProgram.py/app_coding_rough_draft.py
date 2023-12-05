@@ -8,7 +8,8 @@ if currentChannel==1:
     print("You are watching ABC")
 if currentChannel==2:
     print("You are watching National Geographic")
-
+if currentChannel==3 :
+    print("You are watching Discovery")
     
 
 stream_services = ["Hulu", "Netflix", "Paramount Plus", "Disney Plus"]
@@ -20,7 +21,11 @@ if currentservice==0 :
 
 if currentservice==1:
     print("You are watching Netflix")      
+if currentservice==2 :
+    print("You are watching Paramount Plus")
 
+if currentservice==3:
+   print("You are watching Disney Plus")
     
 
 
