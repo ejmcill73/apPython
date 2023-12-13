@@ -1,0 +1,1 @@
+1. Having a large following doesnt really matter to me  because i dont really post on social media. Also having a big following would probabaly give me anxiety because of the amount of 
